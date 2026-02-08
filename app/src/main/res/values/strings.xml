@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">TSR Edu App</string>
+
+    <string name="lorem_ipsum1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="lorem_ipsum2">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</string>
+    <string name="lorem_ipsum3">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</string>
+    <string name="step1">\nStep 1 \nClick the capture button.\n</string>
+    <string name="step2">Step 2 \nTake a picture and confirm whether you want to use the picture or take another one.\n</string>
+    <string name="step3">Step 3 \nView the information.\n</string>
+
+    <string name="name_men_at_work">Men at Work</string>
+    <string name="name_no_entry">No Entry</string>
+    <string name="name_no_overtaking">No Overtaking</string>
+    <string name="name_no_turns">No Turns</string>
+    <string name="name_pedestrian_crossing">Pedestrian Crossing</string>
+    <string name="name_school_zone">School Zone</string>
+    <string name="name_slippery_road">Slippery Road</string>
+    <string name="name_stop">Stop Sign</string>
+    <string name="name_traffic_lights_ahead">Traffic Lights Ahead</string>
+    <string name="name_turn_left_ahead">Turn Left Ahead</string>
+    <string name="name_turn_right_ahead">Turn Right Ahead</string>
+    
+    <string name="name_no_parking">No Parking</string>
+    <string name="name_no_left_turn">No Left Turn</string>
+    <string name="name_no_right_turn">No Right Turn</string>
+    <string name="name_approach_to_intersection">Approach to Intersection</string>
+    <string name="name_camping_area">Camping Area</string>
+    <string name="name_double_sharp_turn">Double Sharp Turn</string>
+    <string name="name_gasoline_station">Gasoline Station</string>
+    <string name="name_give_way">Give Way</string>
+    <string name="name_hump_ahead">Hump Ahead</string>
+    <string name="name_keep_left">Keep Left</string>
+    <string name="name_keep_right">Keep Right</string>
+    <string name="name_landslide_prone_area">Landslide Prone Area</string>
+    <string name="name_no_blowing_of_horns">No Blowing of Horns</string>
+    <string name="name_no_cars">No Cars</string>
+    <string name="name_no_pedestrian_crossing">No Pedestrian Crossing</string>
+    <string name="name_no_u_turn">No U-Turn</string>
+    <string name="name_opening_bridge_ahead">Opening Bridge Ahead</string>
+    <string name="name_road_narrows_ahead">Road Narrows Ahead</string>
+    <string name="name_roundabout">Roundabout</string>
+    <string name="name_sharp_turn">Sharp Turn</string>
+    <string name="name_telephone">Telephone Sign</string>
+    <string name="name_two_way">Two Way</string>
+    <string name="name_uneven_road_ahead">Uneven Road Ahead</string>
+    <string name="name_vehicle_may_pass_either_side">Vehicle May Pass Either Side</string>
+
+    <string name="desc_no_parking">Inform drivers and motorists where parking is not permitted.</string>
+    <string name="desc_no_left_turn">The no left turn sign is a turn prohibition sign that is designed to prevent an accident from occurring by informing drivers that turning left is prohibited.</string>
+    <string name="desc_no_right_turn">A No Right Turn sign indicates that right turns are prohibited. Do not make a right turn at an intersection where the No Right Turn sign is posted. You can either travel straight through the intersection or turn left.</string>
+    <string name="desc_approach_to_intersection">As you approach an intersection you should check for traffic on your left and right at all times. If it’s a crossroads, look for traffic coming towards you that might turn right in front of you.</string>
+    <string name="desc_camping_area">The sign means camping, caravans, and mowing are allowed at the site. They may also indicate the distance to that site. The Campsite sign is used for sites providing tent pitches, caravans, or similar accommodation.</string>
+    <string name="desc_double_sharp_turn">Warning for a double curve, first right then left or left first then right.</string>
+    <string name="desc_gasoline_station">Tells the drivers that there is a gasoline station nearby.</string>
+    <string name="desc_give_way">Give way means to slow down and, if necessary, stop in order to prevent a crash from happening. You must always give way at a give way sign and check if it is safe to continue. Give way signs are placed at intersections and other places where other vehicles have priority.</string>
+    <string name="desc_hump_ahead">This sign lets you know you are approaching a speed bump.</string>
+    <string name="desc_keep_left">Keep left Signs advises the driver to proceed forward on the left-hand side of the marked sign, to avoid collisions with stationery traffic islands, road divide devices and unsafe driving into on-coming traffic.</string>
+    <string name="desc_keep_right">Keep right signs are used in locations where the driver must pass only on the right of a roadway feature or obstruction. The sign will be posted ahead of the obstacle, in order to warn the driver of a traffic island, obstruction or median ahead.</string>
+    <string name="desc_landslide_prone_area">Landslide warning signage is placed at the risk slopes as a device to warn landslide risk to the road users; thus, they can take extra precaution, ensuring that they can avoid being landslide victims.</string>
+    <string name="desc_no_blowing_of_horns">The No Blowing of Horn sign is a regulatory signage that orders a driver entering a particular area to avoid using their vehicle horn.</string>
+    <string name="desc_no_cars">No cars are allowed in the area.</string>
+    <string name="desc_no_pedestrian_crossing">The No Pedestrian Crossing sign may be used to prohibit pedestrians from crossing a roadway at an undesirable location or public building where a crossing is not designated.</string>
+    <string name="desc_no_u_turn">No U-turn signs are posted at intersections to indicate the driver is not legally allowed to make a U-turn (a turn in the road to go the opposite direction). If a driver needs to make a 180 degree turn in a place marked no U-turn, they must wait for an intersection that allows this type of turn or find an alternate way such as going around a block.</string>
+    <string name="desc_opening_bridge_ahead">The purpose of the OPENING BRIDGE sign is to alert motorists of bridges that, when in operation, can be lifted or swung to permit the passage of watercraft.</string>
+    <string name="desc_road_narrows_ahead">The road narrows sign is a warning sign. Road narrows signs indicate that the road ahead will not be as wide as the road you are currently on.</string>
+    <string name="desc_roundabout">A Roundabout sign means that you are approaching a roundabout intersection, or traffic circle, where traffic moves counterclockwise around a center island.</string>
+    <string name="desc_sharp_turn">A Sharp Turn sign means that the road you are traveling on turns sharply in the direction indicated by the arrow on the sign.</string>
+    <string name="desc_telephone">Tells the pedestrians that there is a telephone booth nearby.</string>
+    <string name="desc_two_way">Two way traffic signs are posted before or on two-way roadways. These two way traffic signs warn drivers that they’re leaving a one-way roadway and entering a roadway with opposing traffic. This might restrict the driver’s ability to freely pass cars.</string>
+    <string name="desc_uneven_road_ahead">This sign warns you of an uneven road ahead. It might have multiple severe bumps and general uneven surfaces that could throw your vehicle off its line, so slow down. Vehicles with low suspension could be at risk of scraping the road surface.</string>
+    <string name="desc_vehicle_may_pass_either_side">This sign indicates that vehicles may pass on either side of some permanent or temporary obstruction.</string>
+
+    <string name="desc_men_at_work">A men at work sign is a warning sign. Men at work signs indicate that road workers are in or near the roadway. Drivers should be alert and prepared to slow down or stop if they encounter this sign. Oftentimes the men at work signs are posted in construction zones where speed limits are reduced.</string>
+    <string name="desc_no_entry">The "Do Not Enter" signs are commonly placed on roads where traffic needs to be regulated. Example: a one way street where traffic would be against you if you enter it.</string>
+    <string name="desc_no_overtaking">The no overtaking road sign is circular with a red border meaning that it is giving drivers an order. As the no overtaking sign is regulatory, it is illegal to overtake. The no overtaking restriction ends when the lines in the road change from a continuous white line, to a broken line. No overtaking signs are often located on bends, dips in the road or where there are hills.</string>
+    <string name="desc_no_turns">A NO TURNS sign tells drivers that it’s not allowed to turn neither to the right nor to the left at the intersection marked by this sign. When you see a No Turns sign while driving, your only option is to drive straight through the intersection.</string>
+    <string name="desc_pedestrian_crossing">The pedestrian crossing sign is a warning sign. Drivers encountering a pedestrian crossing sign should be alert for any people who might walk or run in front of their vehicle. Pedestrian crossing signs provide advance notice of areas of high pedestrian activity so drivers can prepare to slow down or stop on short notice. Drivers encountering pedestrian crossing signs should remain vigilant to prevent an accident from occurring.</string>
+    <string name="desc_school_zone">A school zone refers to an area on a street near a school. This means that many children are in the area. Children are not as alert as adults when it comes to crossing roads.</string>
+    <string name="desc_slippery_road">The slippery road sign is a warning sign. Slippery road signs are posted in areas where a slippery condition might exist. Drivers should use extreme caution and slow their speed when the road is wet or icy. Avoid any sudden changes in direction when conditions are poor.</string>
+    <string name="desc_stop">A stop sign is a regulatory sign - a traffic control device that warns drivers to slow down and prepare to stop. It’s used when there are no other cars around, or at the end of a line of traffic. Drivers must stop at the stop line, crosswalk, or intersection, whichever they encounter first. The driver must yield the right-of-way to pedestrians and approaching vehicles before proceeding. The driver should only proceed when it is safe to do so.</string>
+    <string name="desc_traffic_lights_ahead">A driver must not park or stop within six (6) meters of this sign as it reduces visibility for other drivers.</string>
+    <string name="desc_turn_left_ahead">This sign cautions you about a sharp left turn on the road ahead. It gives time to reduce the speed to manage the turn and also sets eyes of the driver on turn. Absence of this sign could lead to major accidents, as sharp bends in hilly road don\'t get sighted easily.</string>
+    <string name="desc_turn_right_ahead">This sign cautions you about a sharp right turn on the road ahead. It gives time to reduce the speed to manage the turn and also sets eyes of the driver on turn. Absence of this sign could lead to major accidents, as sharp bends in hilly road don\'t get sighted easily.</string>
+
+    <string name="name_test">Unknown</string>
+    <string name="desc_test">Please Scan Again</string>
+</resources>
